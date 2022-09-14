@@ -1,0 +1,217 @@
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe.config
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.pdb
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Animations2.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Animations1.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Animations3.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Bezier.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\App.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.cache
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.lref
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Animations2.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Animations1.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Animations3.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Bezier.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.g.resources
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primer_2._1.Properties.Resources.resources
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.GenerateResource.Cache
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.exe
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.pdb
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csprojResolveAssemblyReference.cache
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe.config
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.exe
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.pdb
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.pdb
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csprojResolveAssemblyReference.cache
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Animations2.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Animations1.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Animations3.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Bezier.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\App.g.cs
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.cache
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.lref
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Animations2.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Animations1.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Animations3.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Bezier.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.baml
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.g.resources
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primer_2._1.Properties.Resources.resources
+C:\Users\Firefly\Desktop\RG-ESI blok\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.GenerateResource.Cache
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe.config
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.pdb
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csprojResolveAssemblyReference.cache
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Animations2.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Animations1.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\App.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.cache
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.lref
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Animations2.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Animations1.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.g.resources
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2._1.Properties.Resources.resources
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.GenerateResource.Cache
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.exe
+E:\D\!FTN\!RG VEZBE\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.pdb
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe.config
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.pdb
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csprojAssemblyReference.cache
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Animations2.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Animations1.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\App.g.cs
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.cache
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.lref
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Animations2.baml
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Animations1.baml
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.baml
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.baml
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.baml
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.baml
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.baml
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.baml
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.baml
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.g.resources
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2._1.Properties.Resources.resources
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.GenerateResource.cache
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.CoreCompileInputs.cache
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.exe
+E:\D\!FTN\!RG VEZBE\2018-2019\Vezbe 2\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.pdb
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe.config
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.pdb
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csprojAssemblyReference.cache
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Animations2.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Animations1.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\App.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.cache
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.lref
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Animations2.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Animations1.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.g.resources
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primer_2._1.Properties.Resources.resources
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.GenerateResource.cache
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.CoreCompileInputs.cache
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.exe
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.pdb
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe.config
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.exe
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\Primer_2.1.pdb
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csprojAssemblyReference.cache
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Animations2.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Animations1.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\App.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.cache
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1_MarkupCompile.lref
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Animations2.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Animations1.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Brushes1.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\MainWindow.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primitive1.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primitive2.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Transformacije.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Transformacije2.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\TransformacijeXAML.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.g.resources
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2._1.Properties.Resources.resources
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.GenerateResource.cache
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.CoreCompileInputs.cache
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.exe
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.pdb
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\ELipsa.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\ELipsa.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\AddWindow.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\AddWindow.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\Primer_2.1.csproj.CopyComplete
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\AddPoligon.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\AddPoligon.baml
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\EditElipse.g.cs
+C:\Users\vukmi\OneDrive\Radna površina\4. godina\grafika\Projekat\Primer_2.1\Primer_2.1\obj\Debug\EditElipse.baml

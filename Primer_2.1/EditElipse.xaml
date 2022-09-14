@@ -1,0 +1,14 @@
+﻿<Window x:Class="Primer_2._1.EditElipse"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Primer_2._1"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="EditElipse" Height="450" Width="800">
+    <Grid>
+        <xctk:ColorPicker Name="CpElipsa" SelectedColorChanged="CpElipsa_SelectedColorChanged" Margin="136,202,537.6,192" DisplayColorAndName="True"   AvailableColorsSortingMode="HueSaturationBrightness" />
+        <Button Content="Close" Click="Button_Click" HorizontalAlignment="Left" Margin="543,344,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

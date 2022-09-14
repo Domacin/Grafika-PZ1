@@ -1,0 +1,43 @@
+﻿<Window x:Class="Primer_2._1.Transformacije2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Primer_2._1"
+        mc:Ignorable="d"
+        Title="Transformacije2"  Height="1200" Width="1200">
+    <DockPanel>
+        <Button x:Name="DugmeLoad" Content="Ucitaj" Click="DugmeLoad_Click" DockPanel.Dock="Top"></Button>
+        <Menu x:Name="Menu" Height="20 " DockPanel.Dock="Top" >
+            <MenuItem Header="Tools" DockPanel.Dock="Top" HorizontalAlignment="Center">
+                <MenuItem Header="Draw Ellipse" IsCheckable="True" Name="Elipsa"/>
+                <MenuItem Header="Draw Polygon" IsCheckable="True" Name="Poligon"/>
+                <MenuItem Header="Add Text" IsCheckable="True" Name="AddText"/>
+                <MenuItem Header="Undo" Name="UndoButton" Click="UndoButton_Click"/>
+                <MenuItem Header="Redo" Name="ReDoButton" Click="ReDoButton_Click"/>
+                <MenuItem Header="Clear" Click="MenuItem_Click_Clear"/>
+            </MenuItem>
+        </Menu>
+        <StackPanel DockPanel.Dock="Bottom">
+            <TextBlock Text="SubStation" DockPanel.Dock="Top" FontSize="15"><Ellipse Margin="10 0 0 0" Width="5" Height="5" Fill="Green"></Ellipse></TextBlock>
+            <TextBlock Text="Node" DockPanel.Dock="Top" FontSize="15"  ><Ellipse  Margin="10 0 0 0" Width="5" Height="5" Fill="Red"></Ellipse></TextBlock>
+            <TextBlock Text="Switch" DockPanel.Dock="Top" FontSize="15" ><Ellipse  Margin="10 0 0 0" Width="5" Height="5" Fill="Blue"></Ellipse></TextBlock>
+        </StackPanel>
+        
+
+        <Slider x:Name="slider" Minimum=".1" Maximum="10" Value="1" DockPanel.Dock="Top" Margin="-33.6,0,-0.2,0"/>
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+
+
+            <Canvas Name="Glavni" Width="800" Height="800" Loaded="Canvas_Loaded" MouseRightButtonDown="Glavni_MouseRightButtonDown"  Background="White" MouseLeftButtonDown="Glavni_MouseLeftButtonDown" >
+                <Canvas.LayoutTransform>
+                    <ScaleTransform ScaleX="{Binding ElementName=slider, Path=Value}"
+                                ScaleY="{Binding ElementName=slider, Path=Value}"/>
+                </Canvas.LayoutTransform>
+
+
+            </Canvas>
+
+        </ScrollViewer>
+    </DockPanel>
+</Window>
